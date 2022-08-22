@@ -15,6 +15,7 @@ public class Base1 {
 	
 	static WebDriver driver = null;
 	
+	
 	static ExtentHtmlReporter htmlReporter = null;
 	
 	static ExtentReports report = null;
